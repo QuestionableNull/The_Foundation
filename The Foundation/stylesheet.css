@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+    color: rgb(250, 183, 0);
+}
+
+nav{
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#memeImage{
+    margin-right: 200px;
+}
+
+header{
+    text-align: center;
+}
+
+#playButton {
+    padding: 5px 10px;
+    background-color: #bb0000;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
